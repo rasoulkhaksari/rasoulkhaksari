@@ -11,7 +11,7 @@ Motivated data scientist. Passionate about building models that fix problems. Re
 
 💼 **Toolbox**
 <br>
-![python](python.png) ![golang](go72.png) ![java](java.png) ![linux](linux.png) ![csharp](csharp.png)
+![python](python.png) ![golang](go72.png) ![java](java.png) ![linux](linux.png) ![csharp](csharp.png) ![git](git.png) 
 
 <!--
 <img src="toolbox.png" style="vertical-align: middle;" />**Toolbox**
