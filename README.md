@@ -11,7 +11,7 @@ Motivated data scientist. Passionate about building models that fix problems. Re
 
 💼 **Toolbox**
 <br>
-![python](python.png) ![nodejs](nodejs2.png) ![golang](go72.png) ![java](Java10.png) ![csharp](csharp.png) ![vscode](vscode.png) ![linux](linux.png) ![git](git.png) ![postgresql](postgresql.png)  ![mongodb](mongodb2.png) ![redis](redis2.png) ![docker](docker.png) ![AWS](aws2.png) ![scikitlearn](scikitlearn.png) ![tensorflow](tensorflow.png)
+![python](python.png)  ![nodejs](nodejs2.png)  ![golang](go72.png)  ![java](Java10.png)  ![csharp](csharp.png)  ![vscode](vscode.png)  ![linux](linux.png)  ![git](git.png) ![postgresql](postgresql.png)  ![mongodb](mongodb2.png)  ![redis](redis2.png)  ![docker](docker.png)  ![kafka](kafka.png)  ![AWS](aws2.png)  ![scikitlearn](scikitlearn.png)  ![tensorflow](tensorflow.png)  ![opencv](opencv.png) ![pytorch](pytorch.png)
 
 <!--
 <img src="toolbox.png" style="vertical-align: middle;" />**Toolbox**
