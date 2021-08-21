@@ -27,7 +27,7 @@ Motivated data scientist. Passionate about building models that fix problems. Re
   🔷 [**Software Design Patterns**](https://github.com/rasoulkhaksari/Software_Design_Patterns)  
   🔷 [**US Federal Election Data Analysis** (Data Mining)](https://github.com/rasoulkhaksari/Federal_Election_Data_Analysis)  
   🔷 [**Machine Learning Regression**](https://github.com/rasoulkhaksari/Machine_Learning_Regression)  
-  🔷 [**Deep Learning Classification** (Image Processing)](https://github.com/rasoulkhaksari/Deep_Learning_Classification)  
+  🔷 [**Deep Learning Classification** (Image Processing, Transfer learning)](https://github.com/rasoulkhaksari/Deep_Learning_Classification)  
   🔷 [**50 Coding Challenges** (Algorithms)](https://github.com/rasoulkhaksari/50_Coding_Challenges)  
   🔷 [**Concurrent Download Manager** (Concurrent Programming)](https://github.com/rasoulkhaksari/Concurrent_Download_Manager)  
   🔷 [**Front-end State Management using RxJS and React Hooks** (Reactive Programming)](https://github.com/rasoulkhaksari/Frontend_State-Management_RxJS_React-Hooks)  
