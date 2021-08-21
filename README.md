@@ -17,18 +17,20 @@ Motivated data scientist. Passionate about building models that fix problems. Re
 
 💻 **Portfolio**
 <br>
-  🔷 [**Web Page Screenshot**](https://github.com/rasoulkhaksari/WebPage_Screenshot)<br>
-  🔷 [**Simple Blockchain**](https://github.com/rasoulkhaksari/Simple_Blockchain)<br>
-  🔷 [**Programming Algorithms**](https://github.com/rasoulkhaksari/Programming_Algorithms)<br>
-  🔷 [**CQRS pattern**](https://github.com/rasoulkhaksari/CQRS_pattern)<br>
-  🔷 [**Natural Language Processing Chatbot**](https://github.com/rasoulkhaksari/Natural_Language_Processing_Chatbot)<br>
-  🔷 [**Stock Price Prediction**](https://github.com/rasoulkhaksari/Stock_Price_Prediction)<br>
-  🔷 [**Twitter Sentiment Analysis**](https://github.com/rasoulkhaksari/Twitter_Sentiment_Analysis)<br>
-  🔷 [**Software Design Patterns**](https://github.com/rasoulkhaksari/Software_Design_Patterns)<br>
-  🔷 [**US Federal Election Data Analysis**](https://github.com/rasoulkhaksari/Federal_Election_Data_Analysis)<br>
-  🔷 [**Machine Learning Regression**](https://github.com/rasoulkhaksari/Machine_Learning_Regression)<br>
-  🔷 [**Deep Learning Classification: Image Processing**](https://github.com/rasoulkhaksari/Deep_Learning_Classification)<br>
-  🔷 [**50 Coding Challenges**](https://github.com/rasoulkhaksari/50_Coding_Challenges)<br>
+  🔷 [**Web Page Screenshot** (Performance)](https://github.com/rasoulkhaksari/WebPage_Screenshot)  
+  🔷 [**Simple Blockchain**](https://github.com/rasoulkhaksari/Simple_Blockchain)  
+  🔷 [**Programming Algorithms**](https://github.com/rasoulkhaksari/Programming_Algorithms)  
+  🔷 [**CQRS pattern** (Software Architecture)](https://github.com/rasoulkhaksari/CQRS_pattern)  
+  🔷 [**Natural Language Processing Chatbot**](https://github.com/rasoulkhaksari/Natural_Language_Processing_Chatbot)  
+  🔷 [**Stock Price Prediction** (Time-series Analysis)](https://github.com/rasoulkhaksari/Stock_Price_Prediction)  
+  🔷 [**Twitter Sentiment Analysis** (Natural Language Processing)](https://github.com/rasoulkhaksari/Twitter_Sentiment_Analysis)  
+  🔷 [**Software Design Patterns**](https://github.com/rasoulkhaksari/Software_Design_Patterns)  
+  🔷 [**US Federal Election Data Analysis** (Data Mining)](https://github.com/rasoulkhaksari/Federal_Election_Data_Analysis)  
+  🔷 [**Machine Learning Regression**](https://github.com/rasoulkhaksari/Machine_Learning_Regression)  
+  🔷 [**Deep Learning Classification** (Image Processing)](https://github.com/rasoulkhaksari/Deep_Learning_Classification)  
+  🔷 [**50 Coding Challenges** (Algorithms)](https://github.com/rasoulkhaksari/50_Coding_Challenges)  
+  🔷 [**Concurrent Download Manager** (Concurrent Programming)](https://github.com/rasoulkhaksari/Concurrent_Download_Manager)  
+  🔷 [**Front-end State Management using RxJS and React Hooks** (Reactive Programming)](https://github.com/rasoulkhaksari/Frontend_State-Management_RxJS_React-Hooks)  
   
   
 
