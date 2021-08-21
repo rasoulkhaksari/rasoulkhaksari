@@ -28,6 +28,7 @@ Motivated data scientist. Passionate about building models that fix problems. Re
   🔷 [**US Federal Election Data Analysis**](https://github.com/rasoulkhaksari/Federal_Election_Data_Analysis)<br>
   🔷 [**Machine Learning Regression**](https://github.com/rasoulkhaksari/Machine_Learning_Regression)<br>
   🔷 [**Deep Learning Classification: Image Processing**](https://github.com/rasoulkhaksari/Deep_Learning_Classification)<br>
+  🔷 [**50 Coding Challenges**](https://github.com/rasoulkhaksari/50_Coding_Challenges)<br>
   
   
 
