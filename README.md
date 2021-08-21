@@ -25,6 +25,11 @@ Motivated data scientist. Passionate about building models that fix problems. Re
   🔷 [**Stock Price Prediction**](https://github.com/rasoulkhaksari/Stock_Price_Prediction)<br>
   🔷 [**Twitter Sentiment Analysis**](https://github.com/rasoulkhaksari/Twitter_Sentiment_Analysis)<br>
   🔷 [**Software Design Patterns**](https://github.com/rasoulkhaksari/Software_Design_Patterns)<br>
+  🔷 [**US Federal Election Data Analysis**](https://github.com/rasoulkhaksari/Federal_Election_Data_Analysis)<br>
+  🔷 [**Machine Learning Regression**](https://github.com/rasoulkhaksari/Machine_Learning_Regression)<br>
+  🔷 [**Deep Learning Classification: Image Processing**](https://github.com/rasoulkhaksari/Deep_Learning_Classification)<br>
+  
+  
 
 
 
