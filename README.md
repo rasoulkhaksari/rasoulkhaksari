@@ -33,7 +33,12 @@ Motivated data scientist. Passionate about building models that fix problems. Re
   🔷 [**Concurrent Download Manager** (Concurrent Programming)](https://github.com/rasoulkhaksari/Concurrent_Download_Manager)  
   🔷 [**Front-end State Management using RxJS and React Hooks** (Reactive Programming)](https://github.com/rasoulkhaksari/Frontend_State-Management_RxJS_React-Hooks)  
   
-  
+---
+
+📓 **Useful Resources**
+<br>
+  ▪ [**Useful Books**](https://github.com/rasoulkhaksari/Useful_Resources)  
+
 
 
 
