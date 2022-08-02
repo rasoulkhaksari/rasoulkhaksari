@@ -21,7 +21,7 @@ Motivated data scientist. Passionate about building models that fix problems. Re
   🔷 [**Simple Blockchain**](https://github.com/rasoulkhaksari/Simple_Blockchain)  
   🔷 [**Programming Algorithms**](https://github.com/rasoulkhaksari/Programming_Algorithms)  
   🔷 [**CQRS pattern** (Software Architecture)](https://github.com/rasoulkhaksari/CQRS_pattern)  
-  🔷 [**Natural Language Processing Chatbot**](https://github.com/rasoulkhaksari/Natural_Language_Processing_Chatbot)  
+  🔷 [**Natural Language Processing Chatbot**](https://github.com/rasoulkhaksari/ML_ChatBot)  
   🔷 [**Stock Price Prediction** (Time-series Analysis)](https://github.com/rasoulkhaksari/Stock_Price_Prediction)  
   🔷 [**Twitter Sentiment Analysis** (Natural Language Processing)](https://github.com/rasoulkhaksari/Twitter_Sentiment_Analysis)  
   🔷 [**Software Design Patterns**](https://github.com/rasoulkhaksari/Software_Design_Patterns)  
