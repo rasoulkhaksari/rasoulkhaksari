@@ -11,7 +11,7 @@ Motivated data scientist. Passionate about building models that fix problems. Re
 
 💼 **Toolbox**
 <br>
-![python](python.png)  ![nodejs](nodejs13.png)  ![golang](go72.png)  ![java](Java10.png)  ![csharp](csharp.png)  ![vscode](vscode.png)  ![django](django.jpg)  ![linux](linux.png)  ![git](git.png)  ![jenkins](jenkins.jpg)  ![postgresql](postgresql.png)  ![mongodb](mongodb2.png)  ![redis](redis2.png)  ![docker](docker.png)  ![kubernetes](Kubernetes.png)  ![kafka](kafka2.png)  ![AWS](aws2.png)  ![pandas](pandas3.png)  ![matplotlib](matplotlib.png)  ![scikitlearn](scikitlearn2.png)  ![tensorflow](tensorflow.png)  ![opencv](opencv.png) ![pytorch](pytorch.png)  ![scikitlearn](MLflow.png)
+![python](python.png)  ![nodejs](nodejs13.png)  ![golang](go72.png)  ![java](Java10.png)  ![csharp](csharp.png)  ![vscode](vscode.png)  ![django](django.jpg)  ![linux](linux.png)  ![git](git.png)  ![postgresql](postgresql.png)  ![mongodb](mongodb2.png)  ![redis](redis2.png)  ![docker](docker.png)  ![kubernetes](Kubernetes.png)  ![kafka](kafka2.png)  ![AWS](aws2.png)  ![pandas](pandas3.png)  ![matplotlib](matplotlib.png)  ![scikitlearn](scikitlearn2.png)  ![tensorflow](tensorflow.png)  ![opencv](opencv.png) ![pytorch](pytorch.png)  ![scikitlearn](MLflow.png)
 
 ---
 
